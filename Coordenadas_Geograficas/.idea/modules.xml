@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coordenadas_Geograficas.iml" filepath="$PROJECT_DIR$/Coordenadas_Geograficas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo_coordenadas_geograficas/modulo_coordenadas_geograficas.iml" filepath="$PROJECT_DIR$/modulo_coordenadas_geograficas/modulo_coordenadas_geograficas.iml" />
+    </modules>
+  </component>
+</project>
