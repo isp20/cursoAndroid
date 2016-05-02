@@ -14,6 +14,8 @@ class Principal {
         conjunto.add("pera");
         conjunto.add("fresa");
         conjunto.add("naranja");
+        conjunto.add("uva");
+        conjunto.add("melon");
         conjunto.remove("pera");
         for(String s : conjunto) {
             System.out.println(s);
