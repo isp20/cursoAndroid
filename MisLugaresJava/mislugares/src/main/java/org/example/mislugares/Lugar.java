@@ -28,6 +28,12 @@ public class Lugar {
         this.tipo=tipo;
     }
 
+    public Lugar() {
+        fecha = System.currentTimeMillis();
+        posicion = new GeoPunto(0,0);
+        tipo = TipoLugar.OTROS;
+    }
+
     public TipoLugar getTipo() {
         return tipo;
     }
